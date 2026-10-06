@@ -4,6 +4,7 @@ An Augmented Reality door portal prototype developed using Unity and Vuforia dur
 
 ## Project Preview
 
+
 ![AR Door Portal](Assets/ar-door-portal-poster.jpg)
 
 ## Overview
